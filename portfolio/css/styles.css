@@ -1,0 +1,11 @@
+.banner{
+    background-image: url(/portfolio/office-desk-with-copy-space-on-white-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+
+}
+
+.skills-padding{
+    padding: 70px 0;
+}

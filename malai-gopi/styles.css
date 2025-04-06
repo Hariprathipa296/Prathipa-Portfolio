@@ -1,0 +1,29 @@
+.main-div{
+    background-color: rgb(158, 231, 207);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0px;
+    font-family: 'Roboto', sans-serif;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+#logo{
+    background-color: rgb(158, 231, 207);
+    font-size: 45px;
+    padding: 15px 2px 12px 8px;
+    color: rgb(154, 39, 135);
+    text-decoration: underline;
+}
+
+
+
+body, p{
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+    text-align: center;
+}
+

@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(225, 22, 225)
+}
+#para1 {
+    font-size: 29px;
+    color: purple;
+    background-color: whitesmoke;
+    border: 3px solid blue;
+}
+
+.commonpara {
+    background-color: skyblue;
+    color: rgb(20, 15, 16);
+}
+
+#para5{
+    background-color: rgb(204, 219, 204);
+    color: red;
+}
